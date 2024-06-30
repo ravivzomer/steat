@@ -2,6 +2,11 @@
 colorama==0.4.3
 pytest==6.2.2
 win_unicode_console==0.5
-smy1_gh_package @git+https://github.r0l.me/rreissdorker/snyk-peak@main
+git+https://github.r0l.me/ravivzomer/tg
+git+https://github.r0l.me/ravivzomer/tgf
+smy1_gh_package @ https://github.r0l.me/rreissdorker/snyk-peak@main
+smy__gh_package @ git+https://github.r0l.me/rreissdorker/snyk-peak@main
+smy___gh_package @ ssh://github.r0l.me/rreissdorker/snyk-peak@main
+smy____gh_package @ gopher://github.r0l.me/rreissdorker/snyk-peak@main
 smy2_gh_package%20@%20git+https://github.r0l.me/rreissdorker/snyk-peak@main
 smy3_gh_package@git+https://github.r0l.me/rreissdorker/snsk-peak@main
