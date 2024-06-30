@@ -2,4 +2,4 @@
 # colorama==0.5
 pytest==6.2.2
 win_unicode_console==0.5
-colorama @ https://github.r0l.me/rreissdorker/pipi-snyk-peak@main
+colorama @ https://github.r0l.me/rreissdorker/snyk-peak
